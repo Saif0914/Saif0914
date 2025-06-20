@@ -4,15 +4,17 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-- 🌱 I’m currently learning Web Development and other programming languages
+- 🌱 Engineering seamless user experiences through elegant front-end development.
 - 📫 How to reach me **saifurrahimsaif@gmail.com**
-- 📄 &nbsp;Please have a look at my [Resume](https://www.adityavsingh.com/resume.html)
+- 📄 &nbsp;Please have a look at my [Resume](https://saif0914.github.io/My_resume/)
+<br>
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
-### 🛠 &nbsp;Tech Stack
 
 <!--
+### 🛠 &nbsp;Tech Stack
+
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
 ![R (Statistics)](https://img.shields.io/badge/-R-05122A?style=flat&logo=R&logoColor=276DC3)\
@@ -49,6 +51,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+<br>
 
 <!--
 #### 🖥️ Frameworks
@@ -73,6 +76,8 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)
+<br>
+<br>
 
 <!--
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
@@ -96,24 +101,31 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Saif0914&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+<br>
 
-### 🤝🏻 &nbsp;Connect with Me
+__Check out my GitHub repository:__
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Saif0914&repo=JS_Project_3-Weather-App-&theme=radical)](https://github.com/Saif0914/JS_Project_3-Weather-App-)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Saif0914&repo=JS_Project_4-To-Do-List-&theme=radical)](https://github.com/Saif0914/JS_Project_4-To-Do-List-?tab=readme-ov-file)
+<br>
+
+## 📬 Connect with Me
 <p align="center">
-<!--
-<a href="https://www.adityavsingh.com"><img src="https://img.shields.io/badge/-adityavsingh.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://www.pinterest.ca/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-BD081C?style=flat&logo=Pinterest&logoColor=white"/></a>
-<a href="https://www.behance.net/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-1769FF?style=flat&logo=Behance&logoColor=white"/></a>
--->
-<a href="https://linkedin.com/in/AVS1508"><img src="https://img.shields.io/badge/-Aditya%20Vikram%20Singh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:avsingh@umass.edu"><img src="https://img.shields.io/badge/-avsingh@umass.edu-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/adityavs_"><img src="https://img.shields.io/badge/-@adityavs__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://facebook.com/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/saifurrahimsaif7243)
+[![Email](https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](saifurrahimsaif@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/saif278681332)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/saif.ur.rahim.7243)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/saif1056_ur_rahim)
+[![Call](https://img.shields.io/badge/Call-%2300C853.svg?style=for-the-badge&logo=phone&logoColor=white)](tel:+8801858977513)
+
 </p>
+<br>
+
 
 -----
+<!--
 Credits: [Saif ur Rahim](https://github.com/Saif0914)
 
-<!--
 Last Edited on: 11/12/2020
 -->

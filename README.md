@@ -48,6 +48,11 @@
 <a href="https://github.com/AVS1508">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Saif0914&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Saif0914&layout=compact&langs_count=8&theme=algolia"/>
+  <div align=center> 
+   
+   ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Saif0914&theme=github_dark) 
+   
+  </div>
 </a>
 </p>
 

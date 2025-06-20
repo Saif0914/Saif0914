@@ -1,10 +1,11 @@
 <h1 align="center">Hi 👋, I'm Saif ur Rahim</h1>
-<h3 align="center">Student at East West University, Dhaka🌟.</h3>
+<h3 align="center">Front-End Developer | Student at East West University, Dhaka🌟.</h3>
 
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-- 🌱 Engineering seamless user experiences through elegant front-end development.
+- 🌱 I'm a Computer Science and Engineering Student.
+- 👨‍💻 I’m currently working on web development technologies like JavaScript, React, etc.
 - 📫 How to reach me **saifurrahimsaif@gmail.com**
 - 📄 &nbsp;Please have a look at my [Resume](https://saif0914.github.io/My_resume/)
 <br>
@@ -75,11 +76,12 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white)
 <br>
 <br>
 
 <!--
+![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![GitLab](https://img.shields.io/badge/gitlab-%23121011.svg?style=for-the-badge&logo=gitlab&logoColor=yello)
 ![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)

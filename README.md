@@ -122,7 +122,8 @@ __Check out my GitHub repository:__
 </p>
 <br>
 
-
+<p align="center"><em> Thank You for taking the time to view my GitHub Profile! </em></p>
+  
 -----
 <!--
 Credits: [Saif ur Rahim](https://github.com/Saif0914)

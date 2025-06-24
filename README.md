@@ -120,8 +120,9 @@ __Check out my GitHub repository:__
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/saif278681332)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/saif.ur.rahim.7243)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/saif1056_ur_rahim)
+<!--
 [![Call](https://img.shields.io/badge/Call-%2300C853.svg?style=for-the-badge&logo=phone&logoColor=white)](tel:+8801858977513)
-
+-->
 </p>
 <br>
 

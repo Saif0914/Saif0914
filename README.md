@@ -4,7 +4,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-- 🌱 I'm a Computer Science and Engineering Student at East West University, Dhaka🌟
+- 🌱 I'm a Computer Science and Engineering Student at East West University, Dhaka.
 - 👨‍💻 I’m currently working on web development technologies like JavaScript, React, etc.
 - 📫 How to reach me **saifurrahimsaif@gmail.com**
 - 📄 &nbsp;Please have a look at my [Resume](https://saif0914.github.io/My_resume/)
